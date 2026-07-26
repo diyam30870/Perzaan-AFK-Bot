@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip":diyam308.aternos.me
+  "server": {diyam308
+    "ip": diyam308.aternos.me
     "port":47651
     "version": "1.21.1"
   },
